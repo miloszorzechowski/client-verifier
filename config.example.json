@@ -1,0 +1,22 @@
+{
+  "interface": {
+    "uri": "telnet://localhost:10011",
+    "username": "serveradmin",
+    "password": "",
+    "port": 9987,
+    "nickname": "@Client Verifier"
+  },
+  "database": {
+    "host": "localhost",
+    "user": "client_verifier",
+    "password": "",
+    "database": "client_verifier"
+  },
+  "settings": {
+    "verification_group": "",
+    "ignored_groups": [
+      ""
+    ],
+    "required_time_spent": 1800
+  }
+}

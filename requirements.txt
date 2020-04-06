@@ -1,0 +1,2 @@
+python-mysql-connector
+ts3==2.0.0b3
